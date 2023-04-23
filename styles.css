@@ -5,12 +5,12 @@
   color: white;
   border: none;
   border-radius: 5px;
-  padding: 10px 20px;
-  transition: all 0.3s ease;
+  padding: 10px 10px;
+/*   transition: all 0.3s ease; */
 }
 
 #btn:hover {
   background-color: yellow;
   color: black;
-  border-radius: 30px;
+  border-radius: 5px;
 }
